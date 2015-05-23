@@ -12,8 +12,8 @@ img: zhuang-p-2.jpg
 thumb: thumb02.jpg
 carousel:
 - zhuang-c-2.jpg
-apa: "Bogost, I., Ferrari, S., Schweizer, B. (2012). Newsgames: Journalism at Play. MIT Press."
-link: http://www.amazon.com/Newsgames-Journalism-Play-Ian-Bogost/dp/0262014874
+apa: "Gee, J. P. (2003). What video games have to teach us about learning and literacy. New York: Palgrave Macmillan."
+link: http://www.amazon.com/Video-Learning-Literacy-Second-Edition/dp/1403984530
 ---
 ####Summary
 What Video Games Have To Teach Us About Learning And Literacy is a book by James Paul Gee which talks about the major cognitive activities including the way to develop identities, how we understand the meaning of things through semiotic, how we perceive the world, etc.
