@@ -14,8 +14,10 @@
 @import url("hoverex-all.css") screen;
 
 @font-face {
-  font-family: 'joystix';
-  src: url('assets/fonts/joystix.ttf') format('truetype');
+  font-family: Joystix;
+  src: url('fonts/joystix.ttf') format('truetype');
+  font-weight: normal;
+  font-style: normal;
 }
 
 /*	################################################################
@@ -36,7 +38,7 @@ body {
 	}
 
 h1, h2, h3, h4, h5, h6 {
-	font-family: 'joystix', sans-serif;
+	font-family: 'Raleway', sans-serif;
 	font-weight: 700;
 }
 
@@ -108,7 +110,7 @@ a:focus {
 }
 
 .navbar-brand {
-	font-family: 'joystix', sans-serif;
+	font-family: 'Raleway', sans-serif;
 	font-weight: 900;
 }
 
@@ -117,7 +119,6 @@ a:focus {
 }
 
 .navbar-default .navbar-nav > li > a {
-    font-family: 'joystix', sans-serif;
 	color: white;
 	font-weight: 700;
 	font-size: 12px;
