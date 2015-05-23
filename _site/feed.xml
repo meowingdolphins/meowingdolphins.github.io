@@ -5,8 +5,8 @@
     <description>The Meowing Dolphins Online Resource Kit for FIT2003, Semester 1 2015.</description>
     <link>http://meowingdolphins.github.io/</link>
     <atom:link href="http://meowingdolphins.github.io/feed.xml" rel="self" type="application/rss+xml" />
-    <pubDate>Sat, 23 May 2015 17:33:50 +1000</pubDate>
-    <lastBuildDate>Sat, 23 May 2015 17:33:50 +1000</lastBuildDate>
+    <pubDate>Sat, 23 May 2015 19:15:14 +1000</pubDate>
+    <lastBuildDate>Sat, 23 May 2015 19:15:14 +1000</lastBuildDate>
     <generator>Jekyll v2.1.0</generator>
     
       <item>
@@ -28,6 +28,23 @@
       </item>
     
       <item>
+        <title>Project: Games of Empire: Global Capitalism and Video Games</title>
+        <description>&lt;h4 id=&quot;summary&quot;&gt;Summary&lt;/h4&gt;
+&lt;p&gt;This book discusses the social effects of video games on society, with a special focus on video games as a business and corporate tool.&lt;/p&gt;
+
+&lt;p&gt;Covering a wide range of topics, including the history of video games, the relationship and interaction between video game and real world reality, and the nature of video game societies, the authors explore the paradoxical
+nature of video games both as a creative outlet for millions around the world and a powerful business commodity and ideological tool for governments and corporations.&lt;/p&gt;
+</description>
+        <pubDate>Sat, 23 May 2015 00:00:00 +1000</pubDate>
+        <link>http://meowingdolphins.github.io/project/book-empire</link>
+        <guid isPermaLink="true">http://meowingdolphins.github.io/project/book-empire</guid>
+        
+        
+        <category>project</category>
+        
+      </item>
+    
+      <item>
         <title>Project: Cyber-dehumanization: Violent video game play diminishes our humanity</title>
         <description>&lt;h4 id=&quot;summary&quot;&gt;Summary&lt;/h4&gt;
 &lt;p&gt;The article is a report on a study conducted to observe whether or not violent videogames result in a dehumanising effect on subjects. A reduction in “humanness” is akin to liking us to machines or animals.&lt;/p&gt;
@@ -39,6 +56,24 @@
         <pubDate>Sat, 23 May 2015 00:00:00 +1000</pubDate>
         <link>http://meowingdolphins.github.io/project/article-dehumanisation</link>
         <guid isPermaLink="true">http://meowingdolphins.github.io/project/article-dehumanisation</guid>
+        
+        
+        <category>project</category>
+        
+      </item>
+    
+      <item>
+        <title>Project: Is there such a thing as online video game addiction? A cross-disciplinary review</title>
+        <description>&lt;h4 id=&quot;summary&quot;&gt;Summary&lt;/h4&gt;
+&lt;p&gt;This article reviews a variety of literature in an attempt to determine whether video game addiction exists.&lt;/p&gt;
+
+&lt;p&gt;Using existing biological, psychological and social research, the authors come to the conclusion that video game addiction exists, as video game dependency displays similar, though more mild characteristics to substance addiction.&lt;/p&gt;
+
+&lt;p&gt;Addressing the unwillingness of some to consider VGA valid due to it not directly affecting the brain, the authors point out that there exist accepted indirect addictions, such as gambling addiction.&lt;/p&gt;
+</description>
+        <pubDate>Sat, 23 May 2015 00:00:00 +1000</pubDate>
+        <link>http://meowingdolphins.github.io/project/article-addiction</link>
+        <guid isPermaLink="true">http://meowingdolphins.github.io/project/article-addiction</guid>
         
         
         <category>project</category>
