@@ -38,7 +38,7 @@ body {
 	}
 
 h1, h2, h3, h4, h5, h6 {
-	font-family: 'Raleway', sans-serif;
+	font-family: 'Joystix', sans-serif;
 	font-weight: 700;
 }
 
@@ -110,7 +110,7 @@ a:focus {
 }
 
 .navbar-brand {
-	font-family: 'Raleway', sans-serif;
+	font-family: 'Joystix', sans-serif;
 	font-weight: 900;
 }
 
@@ -119,6 +119,7 @@ a:focus {
 }
 
 .navbar-default .navbar-nav > li > a {
+    font-family: 'Joystix', sans-serif;
 	color: white;
 	font-weight: 700;
 	font-size: 12px;
