@@ -17,16 +17,20 @@ layout: default
         </div>
         <div class="col-lg-4 col-lg-offset-1">
             <div class="spacing"></div>
-            <h4>Project Details</h4>
+            <h4>Resource Details</h4>
             <div class="hline"></div>
-            <p><b>Date:</b> {{ page.date | date: "%b %-d, %Y" }}</p>
-            <p><b>Author:</b> {{ page.author }}</p>
-            <p><b>Categories:</b> {{ page.categories }}</p>
-            <p><b>Tagged:</b> Flat, UI, Development</p>
-            <p><b>Client:</b> {{ page.client }}</p>
-            <p><b>Website:</b> <a href="{{ page.website }}">{{ page.website }}</a></p>
+            <p><b>Type:</b> {{ page.type }}</p>
+            <p><b>Name:</b> {{ page.name }}</p>
+            <p><b>Date:</b> {{ page.pub_date }}</p>
+            <p><b>Author(s):</b> {{ page.author }}</p>
+            <p><b>Publication:</b> {{ page.publication }}</p>
+            <p><b>APA:</b> {{ page.apa }}</p>
+            <p><b>DOI:</b> <a href="{{ page.doi }}">{{ page.doi }}</a></p>
         </div>
     </div><! --/row -->
+
+    <div style="height:50px;float: left;">
+        <!-- vertical spacer -->
+    </div>
 </div><! --/container -->
-	 
-{% include portfolio.html title="Related Works." limit=5 %}
+
