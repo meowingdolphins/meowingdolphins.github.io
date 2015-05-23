@@ -5,9 +5,45 @@
     <description>The Meowing Dolphins Online Resource Kit for FIT2003, Semester 1 2015.</description>
     <link>http://meowingdolphins.github.io/</link>
     <atom:link href="http://meowingdolphins.github.io/feed.xml" rel="self" type="application/rss+xml" />
-    <pubDate>Sat, 23 May 2015 16:46:06 +1000</pubDate>
-    <lastBuildDate>Sat, 23 May 2015 16:46:06 +1000</lastBuildDate>
+    <pubDate>Sat, 23 May 2015 17:33:50 +1000</pubDate>
+    <lastBuildDate>Sat, 23 May 2015 17:33:50 +1000</lastBuildDate>
     <generator>Jekyll v2.1.0</generator>
+    
+      <item>
+        <title>Project: Newsgames: Journalism at Play</title>
+        <description>&lt;h4 id=&quot;summary&quot;&gt;Summary&lt;/h4&gt;
+&lt;p&gt;Newsgames: Journalism at Play, is a book written by Ian Bogost, Simon Ferrari, and Bobby Schweizer detailing the past, present, and future of newsgames, a genre of videogames focusing on journalism.&lt;/p&gt;
+
+&lt;p&gt;Traditional journalistic mediums like the newspaper and television face limitations and baked-in bias which renders it difficult to convey a raw message to the audience. A videogame, however, allows the player to experience the news first hand, whether it’s commanding a pirate crew in Cutthroat Capitalism, or a drone strike in September 12th, so that they may draw their own conclusions from objective information.&lt;/p&gt;
+
+&lt;p&gt;The book explores newsgames about current events, infographic newsgames, documentary newsgames, puzzle newsgames, literacy newsgames, and community newsgames.&lt;/p&gt;
+</description>
+        <pubDate>Sat, 23 May 2015 00:00:00 +1000</pubDate>
+        <link>http://meowingdolphins.github.io/project/book-newsgames</link>
+        <guid isPermaLink="true">http://meowingdolphins.github.io/project/book-newsgames</guid>
+        
+        
+        <category>project</category>
+        
+      </item>
+    
+      <item>
+        <title>Project: Cyber-dehumanization: Violent video game play diminishes our humanity</title>
+        <description>&lt;h4 id=&quot;summary&quot;&gt;Summary&lt;/h4&gt;
+&lt;p&gt;The article is a report on a study conducted to observe whether or not violent videogames result in a dehumanising effect on subjects. A reduction in “humanness” is akin to liking us to machines or animals.&lt;/p&gt;
+
+&lt;p&gt;Pairs of undergraduate students were pitted against each other in the fighting game Mortal Kombat, and a non-violent game Top Spin Tennis, to determine if dehumanisation occurs as a result of playing the former. An additional study was conducted with pairs playing cooperatively, using Call of Duty 2 as the violent option.&lt;/p&gt;
+
+&lt;p&gt;The results proved that players do indeed perceive their opponents as less human, and that this was independent of how enjoyable, exciting, or frustrating the game was, and also independent of self-esteem and mood.&lt;/p&gt;
+</description>
+        <pubDate>Sat, 23 May 2015 00:00:00 +1000</pubDate>
+        <link>http://meowingdolphins.github.io/project/article-dehumanisation</link>
+        <guid isPermaLink="true">http://meowingdolphins.github.io/project/article-dehumanisation</guid>
+        
+        
+        <category>project</category>
+        
+      </item>
     
       <item>
         <title>Question: Why did the Chicken cross the road?</title>
@@ -121,24 +157,6 @@ It was popularised in the 1960s with the release of Letraset sheets containing L
         <category>tips&amp;tricks</category>
         
         <category>code-snippets</category>
-        
-      </item>
-    
-      <item>
-        <title>Project: Cyber-dehumanization: Violent video game play diminishes our humanity</title>
-        <description>&lt;h4 id=&quot;summary&quot;&gt;Summary&lt;/h4&gt;
-&lt;p&gt;The article is a report on a study conducted to observe whether or not violent videogames result in a dehumanising effect on subjects. A reduction in “humanness” is akin to liking us to machines or animals.&lt;/p&gt;
-
-&lt;p&gt;Pairs of undergraduate students were pitted against each other in the fighting game Mortal Kombat, and a non-violent game Top Spin Tennis, to determine if dehumanisation occurs as a result of playing the former. An additional study was conducted with pairs playing cooperatively, using Call of Duty 2 as the violent option.&lt;/p&gt;
-
-&lt;p&gt;The results proved that players do indeed perceive their opponents as less human, and that this was independent of how enjoyable, exciting, or frustrating the game was, and also independent of self-esteem and mood.&lt;/p&gt;
-</description>
-        <pubDate>Sat, 26 Apr 2014 02:54:46 +1000</pubDate>
-        <link>http://meowingdolphins.github.io/project/article-dehumanisation</link>
-        <guid isPermaLink="true">http://meowingdolphins.github.io/project/article-dehumanisation</guid>
-        
-        
-        <category>project</category>
         
       </item>
     
