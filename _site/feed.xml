@@ -5,8 +5,8 @@
     <description>The Meowing Dolphins Online Resource Kit for FIT2003, Semester 1 2015.</description>
     <link>http://meowingdolphins.github.io/</link>
     <atom:link href="http://meowingdolphins.github.io/feed.xml" rel="self" type="application/rss+xml" />
-    <pubDate>Sat, 23 May 2015 21:14:54 +1000</pubDate>
-    <lastBuildDate>Sat, 23 May 2015 21:14:54 +1000</lastBuildDate>
+    <pubDate>Sat, 23 May 2015 21:35:53 +1000</pubDate>
+    <lastBuildDate>Sat, 23 May 2015 21:35:53 +1000</lastBuildDate>
     <generator>Jekyll v2.1.0</generator>
     
       <item>
@@ -97,6 +97,26 @@ nature of video games both as a creative outlet for millions around the world an
       </item>
     
       <item>
+        <title>Project: Avatar creation in virtual worlds: Behaviors and motivations</title>
+        <description>&lt;h4 id=&quot;summary&quot;&gt;Summary&lt;/h4&gt;
+&lt;p&gt;This article researches the behaviour characteristics and motivations behind avatar creation in virtual worlds such as MMORPGs (Massively multiplayer online role playing game), or COVEs (Creativity-oriented virtual environment).&lt;/p&gt;
+
+&lt;p&gt;It first gives out theories and references other studies to give background to the topic in question such as the term possible selves which was coined by Markus and Nurius (1986). Possible selves is a concept that represents a person’s idea of what they could become. This is one reason that could affect a person’s choice on the outcome of the creation of their avatar.&lt;/p&gt;
+
+&lt;p&gt;Participants in the research used virtual worlds and were given an online survey to complete which asked a variety of questions that involve how the participants view their avatars.&lt;/p&gt;
+
+&lt;p&gt;The results of the study suggests that the avatars that the participants create do not necessarily resemble the participants themselves. Even the way the participant behaves while controlling the avatar is also not necessarily the way that the participant would behave in the real world. The study also determined four major motivations of avatar creation: virtual exploration, social navigation, contextual adaptation, and identity representation.&lt;/p&gt;
+</description>
+        <pubDate>Sat, 23 May 2015 00:00:00 +1000</pubDate>
+        <link>http://meowingdolphins.github.io/project/article-identity</link>
+        <guid isPermaLink="true">http://meowingdolphins.github.io/project/article-identity</guid>
+        
+        
+        <category>project</category>
+        
+      </item>
+    
+      <item>
         <title>Project: Cyber-dehumanization: Violent video game play diminishes our humanity</title>
         <description>&lt;h4 id=&quot;summary&quot;&gt;Summary&lt;/h4&gt;
 &lt;p&gt;The article is a report on a study conducted to observe whether or not violent videogames result in a dehumanising effect on subjects. A reduction in “humanness” is akin to liking us to machines or animals.&lt;/p&gt;
@@ -158,40 +178,6 @@ nature of video games both as a creative outlet for millions around the world an
         
         
         <category>question</category>
-        
-      </item>
-    
-      <item>
-        <title>Blog: Time to change your apps</title>
-        <description>&lt;p&gt;&lt;b&gt;Lorem Ipsum&lt;/b&gt; is simply dummy text of the printing and typesetting industry. Lorem Ipsum has been the industry’s standard dummy text ever since the 1500s, when an unknown printer took a galley of type and scrambled it to make a type specimen book.&lt;/p&gt;
-
-&lt;p&gt;It has survived not only five centuries, but also the leap into electronic typesetting, remaining essentially unchanged. &lt;!--more--&gt;
-It was popularised in the 1960s with the release of Letraset sheets containing Lorem Ipsum passages, and more recently with desktop publishing software like Aldus PageMaker including versions of Lorem Ipsum.&lt;/p&gt;
-
-&lt;p&gt;Contrary to popular belief, &lt;b&gt;Lorem Ipsum is not simply random text&lt;/b&gt;. It has roots in a piece of classical Latin literature from 45 BC, making it over 2000 years old. Richard McClintock, a Latin professor at &lt;a href=&quot;https://github.com/jekyll/jekyll&quot;&gt;Hampden-Sydney College&lt;/a&gt; in Virginia, looked up one of the more obscure Latin words, consectetur, from a Lorem Ipsum passage, and going through the cites of the word in classical literature, discovered the undoubtable source.&amp;lt;&lt;/p&gt;
-
-&lt;p&gt;Lorem Ipsum comes from sections 1.10.32 and 1.10.33 of “de Finibus Bonorum et Malorum” (The Extremes of Good and Evil) by Cicero, written in 45 BC. This book is a treatise on the theory of ethics, very popular during the Renaissance. The first line of Lorem Ipsum, “Lorem ipsum dolor sit amet..”, comes from a line in section 1.10.32.&lt;/p&gt;
-
-&lt;h4 id=&quot;why-do-we-use-it&quot;&gt;Why do we use it?&lt;/h4&gt;
-&lt;p&gt;It is a long established fact that a reader will be distracted by the readable content of a page when looking at its layout. The point of using Lorem Ipsum is that it has a more-or-less normal distribution of letters, as opposed to using ‘Content here, content here’, making it look like readable English.&lt;/p&gt;
-
-&lt;blockquote&gt;
-  &lt;p&gt;Many desktop publishing packages and web page editors now use Lorem Ipsum as their default model text, and a search for ‘lorem ipsum’ will uncover many web sites still in their infancy. Various versions have evolved over the years, sometimes by accident, sometimes on purpose (injected humour and the like).&lt;/p&gt;
-&lt;/blockquote&gt;
-
-&lt;p&gt;There are many variations of passages of Lorem Ipsum available, but the majority have suffered alteration in some form, by injected humour, or randomised words which don’t look even slightly believable.&lt;/p&gt;
-
-</description>
-        <pubDate>Sat, 26 Apr 2014 02:54:46 +1000</pubDate>
-        <link>http://meowingdolphins.github.io/blog/wordpress/photoshop/time-to-change-your-apps</link>
-        <guid isPermaLink="true">http://meowingdolphins.github.io/blog/wordpress/photoshop/time-to-change-your-apps</guid>
-        
-        
-        <category>blog</category>
-        
-        <category>wordpress</category>
-        
-        <category>photoshop</category>
         
       </item>
     
