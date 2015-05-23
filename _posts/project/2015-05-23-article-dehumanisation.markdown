@@ -9,12 +9,10 @@ author: "Brock Bastian, Jolanda Jetten, Helena R.M. Radke"
 publication: Journal of Experimental Psychology
 categories:
 - project
-img: portfolio_09.jpg
+img: james-p-1.jpg
 thumb: thumb02.jpg
 carousel:
-- single01.jpg
-- single02.jpg
-- single03.jpg
+- james-c-1.jpg
 apa: "Bastian, B., Jetten, J., Radke, H.R.M. (2012). Cyber-dehumanization: Violent video game play diminishes our humanity. Journal of Experimental Social Psychology, 48, 486-491."
 doi: https://dx.doi.org/10.1016/j.jesp.2011.10.009
 ---
