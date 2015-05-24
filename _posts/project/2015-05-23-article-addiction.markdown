@@ -1,6 +1,6 @@
 ---
 layout: project
-title:  "Is there such a thing as online video game addiction? A cross-disciplinary review"
+title:  "Is there such a thing as online video game addiction?"
 type: Article
 name: "Is there such a thing as online video game addiction? A cross-disciplinary review"
 pub_date: 2012

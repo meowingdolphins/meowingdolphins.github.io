@@ -1,6 +1,6 @@
 ---
 layout: project
-title:  "Cyber-dehumanization: Violent video game play diminishes our humanity"
+title:  "Violent video game play diminishes our humanity"
 type: Article
 name: "Cyber-dehumanization: Violent video game play diminishes our humanity"
 pub_date: 2012

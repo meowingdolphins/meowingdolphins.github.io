@@ -1,6 +1,6 @@
 ---
 layout: project
-title:  "Cognitive enhancement in video game players: The role of video game genre"
+title:  "Cognitive enhancement in video game players"
 type: Article
 name: "Cognitive enhancement in video game players: The role of video game genre"
 pub_date: 2015
