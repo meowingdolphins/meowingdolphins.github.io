@@ -5,8 +5,8 @@
     <description>The Meowing Dolphins Online Resource Kit for FIT2003, Semester 1 2015.</description>
     <link>http://meowingdolphins.github.io/</link>
     <atom:link href="http://meowingdolphins.github.io/feed.xml" rel="self" type="application/rss+xml" />
-    <pubDate>Sun, 24 May 2015 10:56:41 +1000</pubDate>
-    <lastBuildDate>Sun, 24 May 2015 10:56:41 +1000</lastBuildDate>
+    <pubDate>Sun, 24 May 2015 21:23:43 +1000</pubDate>
+    <lastBuildDate>Sun, 24 May 2015 21:23:43 +1000</lastBuildDate>
     <generator>Jekyll v2.1.0</generator>
     
       <item>
@@ -55,6 +55,22 @@
         <pubDate>Sat, 23 May 2015 00:00:00 +1000</pubDate>
         <link>http://meowingdolphins.github.io/project/book-learning</link>
         <guid isPermaLink="true">http://meowingdolphins.github.io/project/book-learning</guid>
+        
+        
+        <category>project</category>
+        
+      </item>
+    
+      <item>
+        <title>Project: Reinventing ourselves</title>
+        <description>&lt;h4 id=&quot;summary&quot;&gt;Summary&lt;/h4&gt;
+&lt;p&gt;This book gives a variety of ways to help understand the relationship between virtual worlds, avatars, and identity. By using case studies, literature reviews, quantitative and qualitative analyses, and personal reflections it explores the pros and cons of being virtual.&lt;/p&gt;
+
+&lt;p&gt;The chapters range from stating how concepts of identity can be applied and experimented with in virtual worlds, to exploring how revealing yourself through your avatar can lead to privacy risks.&lt;/p&gt;
+</description>
+        <pubDate>Sat, 23 May 2015 00:00:00 +1000</pubDate>
+        <link>http://meowingdolphins.github.io/project/book-identity</link>
+        <guid isPermaLink="true">http://meowingdolphins.github.io/project/book-identity</guid>
         
         
         <category>project</category>
