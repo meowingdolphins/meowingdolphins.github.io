@@ -5,8 +5,8 @@
     <description>The Meowing Dolphins Online Resource Kit for FIT2003, Semester 1 2015.</description>
     <link>http://meowingdolphins.github.io/</link>
     <atom:link href="http://meowingdolphins.github.io/feed.xml" rel="self" type="application/rss+xml" />
-    <pubDate>Sun, 24 May 2015 10:07:47 +1000</pubDate>
-    <lastBuildDate>Sun, 24 May 2015 10:07:47 +1000</lastBuildDate>
+    <pubDate>Sun, 24 May 2015 10:56:41 +1000</pubDate>
+    <lastBuildDate>Sun, 24 May 2015 10:56:41 +1000</lastBuildDate>
     <generator>Jekyll v2.1.0</generator>
     
       <item>
@@ -165,19 +165,6 @@ nature of video games both as a creative outlet for millions around the world an
         
         
         <category>project</category>
-        
-      </item>
-    
-      <item>
-        <title>Question: Why did the Chicken cross the road?</title>
-        <description>&lt;p&gt;To get to the other side.&lt;/p&gt;
-</description>
-        <pubDate>Sat, 26 Apr 2014 02:54:46 +1000</pubDate>
-        <link>http://meowingdolphins.github.io/question/your-project-name</link>
-        <guid isPermaLink="true">http://meowingdolphins.github.io/question/your-project-name</guid>
-        
-        
-        <category>question</category>
         
       </item>
     
