@@ -5,169 +5,44 @@
     <description>The Meowing Dolphins Online Resource Kit for FIT2003, Semester 1 2015.</description>
     <link>http://meowingdolphins.github.io/</link>
     <atom:link href="http://meowingdolphins.github.io/feed.xml" rel="self" type="application/rss+xml" />
-    <pubDate>Thu, 28 May 2015 23:02:23 +1000</pubDate>
-    <lastBuildDate>Thu, 28 May 2015 23:02:23 +1000</lastBuildDate>
+    <pubDate>Fri, 29 May 2015 23:30:00 +1000</pubDate>
+    <lastBuildDate>Fri, 29 May 2015 23:30:00 +1000</lastBuildDate>
     <generator>Jekyll v2.1.0</generator>
     
       <item>
-        <title>Project: Philosophy Through Video Games</title>
+        <title>Resource: Cognition: What video games teach us about learning and literacy</title>
         <description>&lt;h4 id=&quot;summary&quot;&gt;Summary&lt;/h4&gt;
-&lt;p&gt;The book, Philosophy Through Video Games, targets how basic philosophical theories are present within the field of video games.&lt;/p&gt;
+&lt;p&gt;This book discusses the role of videogames in major cognitive activities, including ways to develop identities, how we understand the meaning through semiotics, and how we perceive the world.&lt;/p&gt;
 
-&lt;p&gt;Some key points of discussion include how gaming inside and outside the mind are interchangable, how violence in first person shooters can lead to a violent society, how the growth of one’s personal identity can be split through MMORPG’s, ect.&lt;/p&gt;
-
-&lt;p&gt;The overarching message of this book aims to convey how video games have the possibility of enriching our own lives as are continuously popular and that they engage with common philosophical problems.&lt;/p&gt;
+&lt;p&gt;The author takes an optimistic view of video games, and also introduces a list of learning principles and explains how they can be applied to daily life.&lt;/p&gt;
 </description>
-        <pubDate>Sat, 23 May 2015 00:00:00 +1000</pubDate>
-        <link>http://meowingdolphins.github.io/project/book-philosophy</link>
-        <guid isPermaLink="true">http://meowingdolphins.github.io/project/book-philosophy</guid>
+        <pubDate>Fri, 29 May 2015 00:00:00 +1000</pubDate>
+        <link>http://meowingdolphins.github.io/resource/book-learning</link>
+        <guid isPermaLink="true">http://meowingdolphins.github.io/resource/book-learning</guid>
         
         
-        <category>project</category>
+        <category>resource</category>
         
       </item>
     
       <item>
-        <title>Project: Newsgames: Journalism at Play</title>
+        <title>Resource: Cognition: Cognitive enhancement in video game players</title>
         <description>&lt;h4 id=&quot;summary&quot;&gt;Summary&lt;/h4&gt;
-&lt;p&gt;Newsgames: Journalism at Play, is a book written by Ian Bogost, Simon Ferrari, and Bobby Schweizer detailing the past, present, and future of newsgames, a genre of videogames focusing on journalism.&lt;/p&gt;
+&lt;p&gt;This report is based on a study that compares two groups of videogame players; first–person shooter and real-time strategy, as well as non videogame players, to determine whether there is a difference in cognitive enhancement between these groups.&lt;/p&gt;
 
-&lt;p&gt;Traditional journalistic mediums like the newspaper and television face limitations and baked-in bias which renders it difficult to convey a raw message to the audience. A videogame, however, allows the player to experience the news first hand, whether it’s commanding a pirate crew in Cutthroat Capitalism, or a drone strike in September 12th, so that they may draw their own conclusions from objective information.&lt;/p&gt;
-
-&lt;p&gt;The book explores newsgames about current events, infographic newsgames, documentary newsgames, puzzle newsgames, literacy newsgames, and community newsgames.&lt;/p&gt;
+&lt;p&gt;The results show that real-time strategy players show greater cognitive ehnacement than first-person shooter players, and that both groups of gamers show superior cognitive enhancement to non-gamers. This implies that gaming has positive effects on cognitive enhancement.&lt;/p&gt;
 </description>
-        <pubDate>Sat, 23 May 2015 00:00:00 +1000</pubDate>
-        <link>http://meowingdolphins.github.io/project/book-newsgames</link>
-        <guid isPermaLink="true">http://meowingdolphins.github.io/project/book-newsgames</guid>
+        <pubDate>Fri, 29 May 2015 00:00:00 +1000</pubDate>
+        <link>http://meowingdolphins.github.io/resource/article-cognitive</link>
+        <guid isPermaLink="true">http://meowingdolphins.github.io/resource/article-cognitive</guid>
         
         
-        <category>project</category>
+        <category>resource</category>
         
       </item>
     
       <item>
-        <title>Project: What video games have to teach us about learning and literacy</title>
-        <description>&lt;h4 id=&quot;summary&quot;&gt;Summary&lt;/h4&gt;
-&lt;p&gt;What Video Games Have To Teach Us About Learning And Literacy is a book by James Paul Gee which talks about the major cognitive activities including the way to develop identities, how we understand the meaning of things through semiotic, how we perceive the world, etc.&lt;/p&gt;
-
-&lt;p&gt;The author takes an optimistic view of video games, and also introduce a list of learning principles and how these principles can be applied to the daily life.&lt;/p&gt;
-</description>
-        <pubDate>Sat, 23 May 2015 00:00:00 +1000</pubDate>
-        <link>http://meowingdolphins.github.io/project/book-learning</link>
-        <guid isPermaLink="true">http://meowingdolphins.github.io/project/book-learning</guid>
-        
-        
-        <category>project</category>
-        
-      </item>
-    
-      <item>
-        <title>Project: Reinventing ourselves</title>
-        <description>&lt;h4 id=&quot;summary&quot;&gt;Summary&lt;/h4&gt;
-&lt;p&gt;This book gives a variety of ways to help understand the relationship between virtual worlds, avatars, and identity. By using case studies, literature reviews, quantitative and qualitative analyses, and personal reflections it explores the pros and cons of being virtual.&lt;/p&gt;
-
-&lt;p&gt;The chapters range from stating how concepts of identity can be applied and experimented with in virtual worlds, to exploring how revealing yourself through your avatar can lead to privacy risks.&lt;/p&gt;
-</description>
-        <pubDate>Sat, 23 May 2015 00:00:00 +1000</pubDate>
-        <link>http://meowingdolphins.github.io/project/book-identity</link>
-        <guid isPermaLink="true">http://meowingdolphins.github.io/project/book-identity</guid>
-        
-        
-        <category>project</category>
-        
-      </item>
-    
-      <item>
-        <title>Project: Games of Empire: Global Capitalism and Video Games</title>
-        <description>&lt;h4 id=&quot;summary&quot;&gt;Summary&lt;/h4&gt;
-&lt;p&gt;This book discusses the social effects of video games on society, with a special focus on video games as a business and corporate tool.&lt;/p&gt;
-
-&lt;p&gt;Covering a wide range of topics, including the history of video games, the relationship and interaction between video game and real world reality, and the nature of video game societies, the authors explore the paradoxical
-nature of video games both as a creative outlet for millions around the world and a powerful business commodity and ideological tool for governments and corporations.&lt;/p&gt;
-</description>
-        <pubDate>Sat, 23 May 2015 00:00:00 +1000</pubDate>
-        <link>http://meowingdolphins.github.io/project/book-empire</link>
-        <guid isPermaLink="true">http://meowingdolphins.github.io/project/book-empire</guid>
-        
-        
-        <category>project</category>
-        
-      </item>
-    
-      <item>
-        <title>Project: Playing Super Mario induces structural brain plasticity</title>
-        <description>&lt;h4 id=&quot;summary&quot;&gt;Summary&lt;/h4&gt;
-&lt;p&gt;The research group at Molecular Psychiatry aims to prove how training in video games might make a difference in preventing mental diseases, such as schizophrenia, depression, post-traumatic stress and other neurodegenerative diseases.&lt;/p&gt;
-
-&lt;p&gt;Using the video game, Super Mario 64 on the 3DS, they measured the effects of how video game might have the potential to induce changes into gamers. In this test case they used a group of university students from Germany to undergo various testing including brain scans, questionnaires as well as regular gaming participation.&lt;/p&gt;
-
-&lt;p&gt;Overall their results reflect how increased plasticity in areas such as the prefrontal cortex can have a dramatic effect on a person’s desire to play games, which can ultimately counteract certain mental diseases.&lt;/p&gt;
-</description>
-        <pubDate>Sat, 23 May 2015 00:00:00 +1000</pubDate>
-        <link>http://meowingdolphins.github.io/project/article-mario</link>
-        <guid isPermaLink="true">http://meowingdolphins.github.io/project/article-mario</guid>
-        
-        
-        <category>project</category>
-        
-      </item>
-    
-      <item>
-        <title>Project: Avatar creation in virtual worlds: Behaviors and motivations</title>
-        <description>&lt;h4 id=&quot;summary&quot;&gt;Summary&lt;/h4&gt;
-&lt;p&gt;This article researches the behaviour characteristics and motivations behind avatar creation in virtual worlds such as MMORPGs (Massively multiplayer online role playing game), or COVEs (Creativity-oriented virtual environment).&lt;/p&gt;
-
-&lt;p&gt;It first gives out theories and references other studies to give background to the topic in question such as the term possible selves which was coined by Markus and Nurius (1986). Possible selves is a concept that represents a person’s idea of what they could become. This is one reason that could affect a person’s choice on the outcome of the creation of their avatar.&lt;/p&gt;
-
-&lt;p&gt;Participants in the research used virtual worlds and were given an online survey to complete which asked a variety of questions that involve how the participants view their avatars.&lt;/p&gt;
-
-&lt;p&gt;The results of the study suggests that the avatars that the participants create do not necessarily resemble the participants themselves. Even the way the participant behaves while controlling the avatar is also not necessarily the way that the participant would behave in the real world. The study also determined four major motivations of avatar creation: virtual exploration, social navigation, contextual adaptation, and identity representation.&lt;/p&gt;
-</description>
-        <pubDate>Sat, 23 May 2015 00:00:00 +1000</pubDate>
-        <link>http://meowingdolphins.github.io/project/article-identity</link>
-        <guid isPermaLink="true">http://meowingdolphins.github.io/project/article-identity</guid>
-        
-        
-        <category>project</category>
-        
-      </item>
-    
-      <item>
-        <title>Project: Violent video game play diminishes our humanity</title>
-        <description>&lt;h4 id=&quot;summary&quot;&gt;Summary&lt;/h4&gt;
-&lt;p&gt;The article is a report on a study conducted to observe whether or not violent videogames result in a dehumanising effect on subjects. A reduction in “humanness” is akin to liking us to machines or animals.&lt;/p&gt;
-
-&lt;p&gt;Pairs of undergraduate students were pitted against each other in the fighting game Mortal Kombat, and a non-violent game Top Spin Tennis, to determine if dehumanisation occurs as a result of playing the former. An additional study was conducted with pairs playing cooperatively, using Call of Duty 2 as the violent option.&lt;/p&gt;
-
-&lt;p&gt;The results proved that players do indeed perceive their opponents as less human, and that this was independent of how enjoyable, exciting, or frustrating the game was, and also independent of self-esteem and mood.&lt;/p&gt;
-</description>
-        <pubDate>Sat, 23 May 2015 00:00:00 +1000</pubDate>
-        <link>http://meowingdolphins.github.io/project/article-dehumanisation</link>
-        <guid isPermaLink="true">http://meowingdolphins.github.io/project/article-dehumanisation</guid>
-        
-        
-        <category>project</category>
-        
-      </item>
-    
-      <item>
-        <title>Project: Cognitive enhancement in video game players</title>
-        <description>&lt;h4 id=&quot;summary&quot;&gt;Summary&lt;/h4&gt;
-&lt;p&gt;This report is based on a study that compare two group of video players (first–person shooter and real-time strategy) indicates that the cognitive abilities they have enhanced may be different.&lt;/p&gt;
-
-&lt;p&gt;The result shows that real-time strategy players show superior performance through these comparison, which proves that occurrence of specific cognitive enhancement may be determined by game mechanics.&lt;/p&gt;
-</description>
-        <pubDate>Sat, 23 May 2015 00:00:00 +1000</pubDate>
-        <link>http://meowingdolphins.github.io/project/article-cognitive</link>
-        <guid isPermaLink="true">http://meowingdolphins.github.io/project/article-cognitive</guid>
-        
-        
-        <category>project</category>
-        
-      </item>
-    
-      <item>
-        <title>Project: Is there such a thing as online video game addiction?</title>
+        <title>Resource: Cognition: Is there such a thing as online video game addiction?</title>
         <description>&lt;h4 id=&quot;summary&quot;&gt;Summary&lt;/h4&gt;
 &lt;p&gt;This article reviews a variety of literature in an attempt to determine whether video game addiction exists.&lt;/p&gt;
 
@@ -175,12 +50,135 @@ nature of video games both as a creative outlet for millions around the world an
 
 &lt;p&gt;Addressing the unwillingness of some to consider VGA valid due to it not directly affecting the brain, the authors point out that there exist accepted indirect addictions, such as gambling addiction.&lt;/p&gt;
 </description>
+        <pubDate>Thu, 28 May 2015 00:00:00 +1000</pubDate>
+        <link>http://meowingdolphins.github.io/resource/article-addiction</link>
+        <guid isPermaLink="true">http://meowingdolphins.github.io/resource/article-addiction</guid>
+        
+        
+        <category>resource</category>
+        
+      </item>
+    
+      <item>
+        <title>Resource: Cognition: Philosophy Through Video Games</title>
+        <description>&lt;h4 id=&quot;summary&quot;&gt;Summary&lt;/h4&gt;
+&lt;p&gt;The book, Philosophy Through Video Games, targets how basic philosophical theories are present within videogames.&lt;/p&gt;
+
+&lt;p&gt;Some key points of discussion include how the effects of gaming inside and outside the mind are interchangable, how violence in first person shooters can lead to a violent society, and how the growth of one’s personal identity can be split through massively multiplayer online role playing games.&lt;/p&gt;
+
+&lt;p&gt;The overarching message of this book is how videogames have the possibility of enriching our own lives as are continuously popular and that they engage with common philosophical problems.&lt;/p&gt;
+</description>
+        <pubDate>Wed, 27 May 2015 00:00:00 +1000</pubDate>
+        <link>http://meowingdolphins.github.io/resource/book-philosophy</link>
+        <guid isPermaLink="true">http://meowingdolphins.github.io/resource/book-philosophy</guid>
+        
+        
+        <category>resource</category>
+        
+      </item>
+    
+      <item>
+        <title>Resource: Cognition: Playing Super Mario induces structural brain plasticity</title>
+        <description>&lt;h4 id=&quot;summary&quot;&gt;Summary&lt;/h4&gt;
+&lt;p&gt;The research group at Molecular Psychiatry aims to prove how training in videogames might make a difference in preventing mental illnesses, such as schizophrenia, depression, post-traumatic stress and other neurodegenerative diseases.&lt;/p&gt;
+
+&lt;p&gt;Using the video game Super Mario 64 on the Nintendo 3DS, they measured the potential of videogames to induce neurological changes. In this experiment, they used a group of university students from Germany to undergo various testing including brain scans, questionnaires, and regular gaming participation.&lt;/p&gt;
+
+&lt;p&gt;The results indicate that increased plasticity in areas such as the prefrontal cortex can have a dramatic effect on a person’s desire to play games, which can ultimately counteract certain mental illnesses.&lt;/p&gt;
+</description>
+        <pubDate>Wed, 27 May 2015 00:00:00 +1000</pubDate>
+        <link>http://meowingdolphins.github.io/resource/article-mario</link>
+        <guid isPermaLink="true">http://meowingdolphins.github.io/resource/article-mario</guid>
+        
+        
+        <category>resource</category>
+        
+      </item>
+    
+      <item>
+        <title>Resource: Society: Newsgames: Journalism at Play</title>
+        <description>&lt;h4 id=&quot;summary&quot;&gt;Summary&lt;/h4&gt;
+&lt;p&gt;Newsgames: Journalism at Play explores Newsgames, a genre of videogames focusing on journalism.&lt;/p&gt;
+
+&lt;p&gt;Traditional journalistic mediums like the newspaper and television face limitations and baked-in bias, which renders it difficult to convey a raw message to the audience. A videogame, however, allows the player to experience the news first hand, whether it’s commanding a pirate crew in Cutthroat Capitalism, or a drone strike in September 12th, so that they may draw their own conclusions from objective information.&lt;/p&gt;
+
+&lt;p&gt;The book explores newsgames about current events, infographic newsgames, documentary newsgames, puzzle newsgames, literacy newsgames, and community newsgames.&lt;/p&gt;
+</description>
+        <pubDate>Tue, 26 May 2015 00:00:00 +1000</pubDate>
+        <link>http://meowingdolphins.github.io/resource/book-newsgames</link>
+        <guid isPermaLink="true">http://meowingdolphins.github.io/resource/book-newsgames</guid>
+        
+        
+        <category>resource</category>
+        
+      </item>
+    
+      <item>
+        <title>Resource: Society: Games of Empire: Global Capitalism and Video Games</title>
+        <description>&lt;h4 id=&quot;summary&quot;&gt;Summary&lt;/h4&gt;
+&lt;p&gt;This book discusses the social effects of video games on society, with a special focus on video games as a business and corporate tool.&lt;/p&gt;
+
+&lt;p&gt;Covering a wide range of topics, including the history of video games, the relationship and interaction between video game and real world reality, and the nature of video game societies, the authors explore the paradoxical
+nature of video games both as a creative outlet for millions around the world and a powerful business commodity and ideological tool for governments and corporations.&lt;/p&gt;
+</description>
+        <pubDate>Mon, 25 May 2015 00:00:00 +1000</pubDate>
+        <link>http://meowingdolphins.github.io/resource/book-empire</link>
+        <guid isPermaLink="true">http://meowingdolphins.github.io/resource/book-empire</guid>
+        
+        
+        <category>resource</category>
+        
+      </item>
+    
+      <item>
+        <title>Resource: Identity: Reinventing ourselves</title>
+        <description>&lt;h4 id=&quot;summary&quot;&gt;Summary&lt;/h4&gt;
+&lt;p&gt;This book provides information about the relationship between virtual worlds, avatars, and identity. By using case studies, literature reviews, quantitative and qualitative analyses, and personal reflections it explores the positives and negatives of being involved in virtual worlds.&lt;/p&gt;
+
+&lt;p&gt;The chapters range from stating how concepts of identity can be applied and experimented with in virtual worlds, to exploring how revealing yourself through your avatar can lead to privacy risks.&lt;/p&gt;
+</description>
         <pubDate>Sat, 23 May 2015 00:00:00 +1000</pubDate>
-        <link>http://meowingdolphins.github.io/project/article-addiction</link>
-        <guid isPermaLink="true">http://meowingdolphins.github.io/project/article-addiction</guid>
+        <link>http://meowingdolphins.github.io/resource/book-identity</link>
+        <guid isPermaLink="true">http://meowingdolphins.github.io/resource/book-identity</guid>
         
         
-        <category>project</category>
+        <category>resource</category>
+        
+      </item>
+    
+      <item>
+        <title>Resource: Identity: Avatar creation in virtual worlds: Behaviors and motivations</title>
+        <description>&lt;h4 id=&quot;summary&quot;&gt;Summary&lt;/h4&gt;
+&lt;p&gt;This article researches the behaviour characteristics and motivations behind avatar creation in virtual worlds such as MMORPGs (massively multiplayer online role playing game), or COVEs (Creativity-oriented virtual environment).&lt;/p&gt;
+
+&lt;p&gt;Participants in the research used virtual worlds and were given an online survey to complete which asked a variety of questions that involve how the participants view their avatars.&lt;/p&gt;
+
+&lt;p&gt;The results of the study suggests that the avatars that the participants create do not necessarily resemble the participants themselves. Even the way the participant behaves while controlling the avatar is also not necessarily the way that the participant would behave in the real world. The study also determined four major motivations of avatar creation: virtual exploration, social navigation, contextual adaptation, and identity representation.&lt;/p&gt;
+</description>
+        <pubDate>Sat, 23 May 2015 00:00:00 +1000</pubDate>
+        <link>http://meowingdolphins.github.io/resource/article-identity</link>
+        <guid isPermaLink="true">http://meowingdolphins.github.io/resource/article-identity</guid>
+        
+        
+        <category>resource</category>
+        
+      </item>
+    
+      <item>
+        <title>Resource: Identity: Violent video game play diminishes our humanity</title>
+        <description>&lt;h4 id=&quot;summary&quot;&gt;Summary&lt;/h4&gt;
+&lt;p&gt;The article is a report on a study conducted to observe whether or not violent videogames result in a dehumanising effect on subjects. By a “dehumanising” effect, we mean that subjects perceive both themselves and others as less human, instead likening them to machines or animals for example.&lt;/p&gt;
+
+&lt;p&gt;Pairs of undergraduate students were pitted against each other in the fighting game Mortal Kombat, and a non-violent game Top Spin Tennis, to determine if dehumanisation occurs as a result of playing the former. An additional study was conducted with pairs playing cooperatively, using Call of Duty 2 as the violent option.&lt;/p&gt;
+
+&lt;p&gt;The results proved that players do indeed perceive their opponents and themselves as less human, and that this was independent of how enjoyable, exciting, or frustrating the game was, and also independent of self-esteem and mood.&lt;/p&gt;
+</description>
+        <pubDate>Sat, 23 May 2015 00:00:00 +1000</pubDate>
+        <link>http://meowingdolphins.github.io/resource/article-dehumanisation</link>
+        <guid isPermaLink="true">http://meowingdolphins.github.io/resource/article-dehumanisation</guid>
+        
+        
+        <category>resource</category>
         
       </item>
     

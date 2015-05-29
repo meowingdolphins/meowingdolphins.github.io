@@ -41,24 +41,34 @@ tel: 1800 Dolphin
 members:
   - name: Clare Hosford
     position: Lead Dolphin
-    text: Lorem Ipsum is simply dummy text of the printing and typesetting industry.
     img: clare.jpg
+    social:
+      - title: envelope #use for email address
+        url: mailto:cehos1@student.monash.edu
   - name: James Liu
     position: Design Dolphin
-    text: Lorem Ipsum is simply dummy text of the printing and typesetting industry.
     img: james.jpg
+    social:
+      - title: envelope #use for email address
+        url: mailto:jyliu8@student.monash.edu
   - name: Zhuang Shao
     position: Support Dolphin
-    text: Lorem Ipsum is simply dummy text of the printing and typesetting industry.
     img: zhuang.jpg
+    social:
+      - title: envelope #use for email address
+        url: mailto:zsha25@student.monash.edu
   - name: Avital Ternovsky
     position: Editing Dolphin
-    text: Lorem Ipsum is simply dummy text of the printing and typesetting industry.
     img: avital.jpg
+    social:
+      - title: envelope #use for email address
+        url: mailto:ater6@student.monash.edu
   - name: David Tran
     position: Planning Dolphin
-    text: Lorem Ipsum is simply dummy text of the printing and typesetting industry.
     img: david.jpg
+    social:
+      - title: envelope #use for email address
+        url: mailto:mttra10@student.monash.edu
 
 # Short text about your company. Shown in footer on every page and also separately on Home and Contact page.
-about: "The Meowing Dolphins were established in April of 2015 as a fine group of procrastinators and resource-gatherers. The Dolphins enjoy various food items available at Taste Baguette but are too poor to order from the expensive side of the menu. We accept donations for meals at anytime."
+about: "The Meowing Dolphins were established in April of 2015 as a fine group of procrastinators and resource-gatherers. The Dolphins' diet include various food items available at Taste Baguette, but not including those on the expensive side of the menu. We're happy to accept donations for meals at anytime."

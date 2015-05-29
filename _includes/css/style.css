@@ -20,11 +20,6 @@
   src: url('../fonts/joystix.ttf') format('truetype');
 }
 
-@font-face {
-  font-family: 'arcadeClassic';
-  src: url('../fonts/ARCADECLASSIC.TTF') format('truetype');
-}
-
 /*	################################################################
 	1. GENERAL STRUCTURES
 ################################################################# */
@@ -45,6 +40,10 @@ body {
 h1, h2, h3, h4, h5, h6 {
 	font-family: 'joystix', sans-serif;
 	font-weight: 700;
+}
+
+h6 {
+    color: white;
 }
 
 p {
